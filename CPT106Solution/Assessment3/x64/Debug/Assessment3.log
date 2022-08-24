@@ -1,0 +1,26 @@
+﻿  main.cpp
+C:\Users\19583\Desktop\DKN\university\homework\Year 2\S2\CPT106\Ass3\CPT106Solution\Assessment3\main.cpp(134,6): warning C4101: 'AA': unreferenced local variable
+C:\Users\19583\Desktop\DKN\university\homework\Year 2\S2\CPT106\Ass3\CPT106Solution\Assessment3\main.cpp(438,9): error C2086: 'FileOp file': redefinition
+C:\Users\19583\Desktop\DKN\university\homework\Year 2\S2\CPT106\Ass3\CPT106Solution\Assessment3\main.cpp(433): message : see declaration of 'file'
+C:\Users\19583\Desktop\DKN\university\homework\Year 2\S2\CPT106\Ass3\CPT106Solution\Assessment3\main.cpp(444,9): error C2086: 'FileOp file': redefinition
+C:\Users\19583\Desktop\DKN\university\homework\Year 2\S2\CPT106\Ass3\CPT106Solution\Assessment3\main.cpp(433): message : see declaration of 'file'
+C:\Users\19583\Desktop\DKN\university\homework\Year 2\S2\CPT106\Ass3\CPT106Solution\Assessment3\main.cpp(450,9): error C2086: 'FileOp file': redefinition
+C:\Users\19583\Desktop\DKN\university\homework\Year 2\S2\CPT106\Ass3\CPT106Solution\Assessment3\main.cpp(433): message : see declaration of 'file'
+C:\Users\19583\Desktop\DKN\university\homework\Year 2\S2\CPT106\Ass3\CPT106Solution\Assessment3\main.cpp(458,9): error C2086: 'FileOp file': redefinition
+C:\Users\19583\Desktop\DKN\university\homework\Year 2\S2\CPT106\Ass3\CPT106Solution\Assessment3\main.cpp(433): message : see declaration of 'file'
+C:\Users\19583\Desktop\DKN\university\homework\Year 2\S2\CPT106\Ass3\CPT106Solution\Assessment3\main.cpp(460,14): error C2086: 'LineFitting file2': redefinition
+C:\Users\19583\Desktop\DKN\university\homework\Year 2\S2\CPT106\Ass3\CPT106Solution\Assessment3\main.cpp(452): message : see declaration of 'file2'
+C:\Users\19583\Desktop\DKN\university\homework\Year 2\S2\CPT106\Ass3\CPT106Solution\Assessment3\main.cpp(467,9): error C2086: 'FileOp file': redefinition
+C:\Users\19583\Desktop\DKN\university\homework\Year 2\S2\CPT106\Ass3\CPT106Solution\Assessment3\main.cpp(433): message : see declaration of 'file'
+C:\Users\19583\Desktop\DKN\university\homework\Year 2\S2\CPT106\Ass3\CPT106Solution\Assessment3\main.cpp(469,14): error C2086: 'LineFitting file2': redefinition
+C:\Users\19583\Desktop\DKN\university\homework\Year 2\S2\CPT106\Ass3\CPT106Solution\Assessment3\main.cpp(452): message : see declaration of 'file2'
+C:\Users\19583\Desktop\DKN\university\homework\Year 2\S2\CPT106\Ass3\CPT106Solution\Assessment3\main.cpp(478,9): error C2086: 'FileOp file': redefinition
+C:\Users\19583\Desktop\DKN\university\homework\Year 2\S2\CPT106\Ass3\CPT106Solution\Assessment3\main.cpp(433): message : see declaration of 'file'
+C:\Users\19583\Desktop\DKN\university\homework\Year 2\S2\CPT106\Ass3\CPT106Solution\Assessment3\main.cpp(480,14): error C2086: 'LineFitting file2': redefinition
+C:\Users\19583\Desktop\DKN\university\homework\Year 2\S2\CPT106\Ass3\CPT106Solution\Assessment3\main.cpp(452): message : see declaration of 'file2'
+C:\Users\19583\Desktop\DKN\university\homework\Year 2\S2\CPT106\Ass3\CPT106Solution\Assessment3\main.cpp(489,9): error C2086: 'FileOp file': redefinition
+C:\Users\19583\Desktop\DKN\university\homework\Year 2\S2\CPT106\Ass3\CPT106Solution\Assessment3\main.cpp(433): message : see declaration of 'file'
+C:\Users\19583\Desktop\DKN\university\homework\Year 2\S2\CPT106\Ass3\CPT106Solution\Assessment3\main.cpp(491,14): error C2086: 'LineFitting file2': redefinition
+C:\Users\19583\Desktop\DKN\university\homework\Year 2\S2\CPT106\Ass3\CPT106Solution\Assessment3\main.cpp(452): message : see declaration of 'file2'
+C:\Users\19583\Desktop\DKN\university\homework\Year 2\S2\CPT106\Ass3\CPT106Solution\Assessment3\main.cpp(500,9): error C2086: 'FileOp file': redefinition
+C:\Users\19583\Desktop\DKN\university\homework\Year 2\S2\CPT106\Ass3\CPT106Solution\Assessment3\main.cpp(433): message : see declaration of 'file'
